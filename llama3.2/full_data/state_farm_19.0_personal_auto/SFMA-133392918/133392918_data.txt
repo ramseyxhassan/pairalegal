@@ -1,0 +1,19 @@
+Filing Information
+**Product Name:** PV-45295
+**Type Of Insurance:** 19.0 Personal Auto
+**Sub Type Of Insurance:** 19.0000 Personal Auto Combinations
+**Filing Type:** Rate/Rule
+**SERFF Tracking Number:** SFMA-133392918
+**Submission Date:** 9/15/22
+**Filing Status:** Closed - Approved
+
+Filing Outcome
+**SERFF Status:** Closed
+**Disposition Date:** 03/15/2023
+**Disposition Status:** Approved
+**State Status:** Approved
+**State Status Last Changed:** 3/11/23
+
+Company Information
+**Company Name**Company Code**Address**Telephone Number**
+State Farm Mutual Automobile Insurance Company 25178 One State Farm Plaza Bloomington, Illinois 61710 (309)766-6341

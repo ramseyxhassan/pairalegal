@@ -1,0 +1,19 @@
+Filing Information
+**Product Name:** HO-44690
+**Type Of Insurance:** 04.0 Homeowners
+**Sub Type Of Insurance:** 04.0000 Homeowners Sub-TOI Combinations
+**Filing Type:** Form/Rate/Rule
+**SERFF Tracking Number:** SFMA-133283250
+**Submission Date:** 6/2/22
+**Filing Status:** Closed - Approved
+
+Filing Outcome
+**SERFF Status:** Closed
+**Disposition Date:** 02/22/2023
+**Disposition Status:** Approved
+**State Status:** Closed
+**State Status Last Changed:** 2/22/23
+
+Company Information
+**Company Name**Company Code**Address**Telephone Number**
+State Farm General Insurance Company 25151 1 State Farm Plaza Bloomington, Illinois 61710 (309)766-6341

@@ -1,0 +1,20 @@
+Filing Information
+**Product Name:** PV-45580
+**Type Of Insurance:** 19.0 Personal Auto
+**Sub Type Of Insurance:** 19.0000 Personal Auto Combinations
+**Filing Type:** Rule
+**SERFF Tracking Number:** SFMA-133467829
+**Submission Date:** 11/18/22
+**Filing Status:** Closed - Withdrawn
+
+Filing Outcome
+**SERFF Status:** Closed
+**Disposition Date:** 11/22/2022
+**Disposition Status:** Withdrawn
+**State Status:** Withdrawn
+**State Status Last Changed:** 11/23/22
+
+Company Information
+**Company Name**Company Code**Address**Telephone Number**
+State Farm Fire and Casualty Company 25143 1 State Farm Plaza Bloomington, Illinois 61710 (309)766-6341
+State Farm Mutual Automobile Insurance Company 25178 One State Farm Plaza Bloomington, Illinois 61710 (309)766-6341

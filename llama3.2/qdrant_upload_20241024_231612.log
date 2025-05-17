@@ -1,0 +1,79 @@
+2024-10-24 23:16:12,379 - INFO - Loading embeddings from: C:\Developer\Workspace\llama3.2\embeddings\qdrant_embeddings_20241024_175937.npz
+2024-10-24 23:16:12,397 - INFO - Vector size: 1024
+2024-10-24 23:16:12,402 - INFO - HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2024-10-24 23:16:12,861 - INFO - HTTP Request: PUT http://localhost:6333/collections/insurance_docs "HTTP/1.1 200 OK"
+2024-10-24 23:16:12,862 - INFO - Created collection: insurance_docs
+2024-10-24 23:16:12,865 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\133099854_data.txt
+2024-10-24 23:16:12,865 - INFO - Text length: 793 chars
+2024-10-24 23:16:12,865 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\SFMA-133099854.pdf
+2024-10-24 23:16:12,865 - INFO - Text length: 214633 chars
+2024-10-24 23:16:12,865 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Rate-Rule Attachments\CA HO 2022-02-01.pdf
+2024-10-24 23:16:12,865 - INFO - Text length: 1101738 chars
+2024-10-24 23:16:12,865 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\CA HO UG 1-1-2023 clean copy.pdf
+2024-10-24 23:16:12,865 - INFO - Text length: 97754 chars
+2024-10-24 23:16:12,865 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\CA HO UG 2-1-2022 - clean copy.pdf
+2024-10-24 23:16:12,865 - INFO - Text length: 97722 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\CA HO UG 2-1-2022 - marked-up copy.pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 97744 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\Fire Peril Acknowledgment Form.pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 5387 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\HO Affidavit-01-11-2022 (1).pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 5459 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\HO Affidavit-01-11-2022.pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 5459 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\HO Filing Exhibits 1 18 19.pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 15617 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\HO Filing Memo.pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 5546 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\HO Objection Response.pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 5565 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\HO PriorAppRateAPL_Ed01-11-2022.pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 208494 chars
+2024-10-24 23:16:12,866 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\HO PriorAppRateAPL_Ed06-11-2021.pdf
+2024-10-24 23:16:12,866 - INFO - Text length: 87397 chars
+2024-10-24 23:16:12,867 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\Homeowner Referral Criteria.pdf
+2024-10-24 23:16:12,867 - INFO - Text length: 5603 chars
+2024-10-24 23:16:12,867 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\HO_Questionnaire for Homeowners Residential Property.pdf
+2024-10-24 23:16:12,867 - INFO - Text length: 34307 chars
+2024-10-24 23:16:12,867 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\Referral Criteria Homeowners 2.1.2022 rev clean copy.pdf
+2024-10-24 23:16:12,867 - INFO - Text length: 5578 chars
+2024-10-24 23:16:12,867 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\Response to 3-10 UG Objections - HO.pdf
+2024-10-24 23:16:12,867 - INFO - Text length: 6012 chars
+2024-10-24 23:16:12,867 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\Response to 4-27 UG Objections - HO.pdf
+2024-10-24 23:16:12,867 - INFO - Text length: 5824 chars
+2024-10-24 23:16:12,867 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\Supporting Document Attachments\Response to 6-2 UG Objections - HO.pdf
+2024-10-24 23:16:12,867 - INFO - Text length: 5776 chars
+2024-10-24 23:16:12,867 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_4.0_homeowners\SFMA-133099854\User Usage Agreement Attachments\Usage Agreement.pdf
+2024-10-24 23:16:12,867 - INFO - Text length: 5940 chars
+2024-10-24 23:16:12,868 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\133336471_data.txt
+2024-10-24 23:16:12,868 - INFO - Text length: 803 chars
+2024-10-24 23:16:12,868 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\SFMA-133336471.pdf
+2024-10-24 23:16:12,868 - INFO - Text length: 84811 chars
+2024-10-24 23:16:12,868 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Rate-Rule Attachments\2022 CA MCY Rate Manual Pages.pdf
+2024-10-24 23:16:12,868 - INFO - Text length: 506227 chars
+2024-10-24 23:16:12,868 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\2022 MCY Example Calc Exhibit.pdf
+2024-10-24 23:16:12,868 - INFO - Text length: 5712 chars
+2024-10-24 23:16:12,868 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\Affidavit.pdf
+2024-10-24 23:16:12,868 - INFO - Text length: 5462 chars
+2024-10-24 23:16:12,868 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\CA MCY Symbol Filing Exhibits.pdf
+2024-10-24 23:16:12,868 - INFO - Text length: 2932488 chars
+2024-10-24 23:16:12,868 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\CA Procedural Filing May 2010.pdf
+2024-10-24 23:16:12,868 - INFO - Text length: 184686 chars
+2024-10-24 23:16:12,868 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\ClassPlanApplication02012019.pdf
+2024-10-24 23:16:12,868 - INFO - Text length: 64038 chars
+2024-10-24 23:16:12,869 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\PPA New Business Guidelines 042621.pdf
+2024-10-24 23:16:12,869 - INFO - Text length: 16982 chars
+2024-10-24 23:16:12,869 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\PPA Referral Criteria 042621.pdf
+2024-10-24 23:16:12,869 - INFO - Text length: 11193 chars
+2024-10-24 23:16:12,869 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\PPA Reunderwriting Guidelines 042621.pdf
+2024-10-24 23:16:12,869 - INFO - Text length: 11671 chars
+2024-10-24 23:16:12,869 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\Supporting Document Attachments\PPA Veh Type and Useage 31422.pdf
+2024-10-24 23:16:12,869 - INFO - Text length: 28019 chars
+2024-10-24 23:16:12,870 - INFO - Processing document: C:/Developer/Workspace/llama3.2\data\state_farm_19.0_personal_auto\SFMA-133336471\User Usage Agreement Attachments\Usage Agreement.pdf
+2024-10-24 23:16:12,870 - INFO - Text length: 5943 chars
+2024-10-24 23:16:13,264 - INFO - HTTP Request: PUT http://localhost:6333/collections/insurance_docs/points?wait=true "HTTP/1.1 200 OK"
+2024-10-24 23:16:13,267 - INFO - Successfully uploaded batch 1/1
+2024-10-24 23:16:13,286 - INFO - HTTP Request: GET http://localhost:6333/collections/insurance_docs "HTTP/1.1 200 OK"
+2024-10-24 23:16:13,289 - INFO - Collection info after upload: status=<CollectionStatus.GREEN: 'green'> optimizer_status=<OptimizersStatusOneOf.OK: 'ok'> vectors_count=None indexed_vectors_count=0 points_count=34 segments_count=8 config=CollectionConfig(params=CollectionParams(vectors=VectorParams(size=1024, distance=<Distance.COSINE: 'Cosine'>, hnsw_config=None, quantization_config=None, on_disk=None, datatype=None, multivector_config=None), shard_number=1, sharding_method=None, replication_factor=1, write_consistency_factor=1, read_fan_out_factor=None, on_disk_payload=True, sparse_vectors=None), hnsw_config=HnswConfig(m=16, ef_construct=200, full_scan_threshold=10000, max_indexing_threads=8, on_disk=False, payload_m=None), optimizer_config=OptimizersConfig(deleted_threshold=0.2, vacuum_min_vector_number=1000, default_segment_number=0, max_segment_size=None, memmap_threshold=20000, indexing_threshold=20000, flush_interval_sec=5, max_optimization_threads=None), wal_config=WalConfig(wal_capacity_mb=32, wal_segments_ahead=0), quantization_config=None) payload_schema={}
+2024-10-24 23:16:13,302 - INFO - HTTP Request: POST http://localhost:6333/collections/insurance_docs/points "HTTP/1.1 200 OK"
+2024-10-24 23:16:13,304 - INFO - Verification - First document text length: 793 chars
